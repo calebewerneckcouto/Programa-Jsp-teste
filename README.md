@@ -26,3 +26,9 @@ ONDE PODE SER CADASTRADO OS TELEFONES PARA O USUARIO ESCOLHIDO.
 
 #PAGINA CADASTRO DE TELEFONES
 ![cadastro de telefones](https://user-images.githubusercontent.com/59000781/72096135-59514d00-32f8-11ea-8aa4-20eef0b42cb7.png)
+
+#CADASTRO DE PRODUTOS
+
+FAZ AS ROTINAS NORMAIS ( SALVAR,EXCLUIR,EDITAR)
+
+![cadastro de produtos](https://user-images.githubusercontent.com/59000781/72096225-8c93dc00-32f8-11ea-8ed6-6dfd60af03b9.png)
